@@ -533,10 +533,6 @@ width: 100%;
         font-size: 20px;
     }
 }
-
-section .about-me{
-  
-}
 .details{
     display: flex;
     justify-content: space-between;
@@ -561,11 +557,6 @@ line-height: 45px;
 .myname{
     font-size: 45px;
     color: darkorange;
-}
-.icons
-{ 
-   
-  
 }
 .icons i{
     font-size: 20px;
